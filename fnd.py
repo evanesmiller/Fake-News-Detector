@@ -1,10 +1,5 @@
 import pandas as pd #provides tools for data manipulation
-import numpy as np #numerical computation
-import seaborn as sns #data visualization based on matplotlib
-import matplotlib.pyplot as plt #data visualization & graphical charting
 from sklearn.model_selection import train_test_split #machine learning 
-from sklearn.metrics import accuracy_score #check accuracy of model
-from sklearn.metrics import classification_report #
 import re
 import string
 
