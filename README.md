@@ -26,6 +26,7 @@ python3 main.py
 ```
 ### *** NOTES ***
 - First run will take a while to complete while models are being trained
+- After first run, directory "models" will be created and filled with trained models which allows for future runs to complete much quicker
 - article_extract.py was used to generate more real_news.csv (unnecessary for running main.py)
-- Models may not be entirely accurate due to inaccuracy of datasets
+- Models may not be entirely accurate due to datasets used
 - Kaggle datasets and pretrained models were too large in size to be included on GitHub
