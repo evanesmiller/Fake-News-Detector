@@ -24,7 +24,7 @@ Run program with the following command
 ```
 python3 main.py
 ```
-*** NOTES ***
+### *** NOTES ***
 - First run will take a while to complete while models are being trained
 - article_extract.py was used to generate more real_news.csv (unnecessary for running main.py)
 - Models may not be entirely accurate due to inaccuracy of datasets
